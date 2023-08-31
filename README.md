@@ -12,4 +12,4 @@ This repository contains code and data for an exploration of the links between e
 * United Nations, Department of Economic and Social Affairs, Population Division (2022). World Population Prospects 2022
 
 ## Suggested citation:
-The Economist, "TKTK". September 2nd, 2023
+The Economist, "Looters with flags". _The Economist_, September 2nd, 2023
