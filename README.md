@@ -1,6 +1,8 @@
 # Nationalism and corruption
 
-This repository contains code and data for an exploration of the links between exclusionary nationalism and corruption. To replicate our analysis, run the following scripts:
+This repository contains code and data for the quantitative analysis featured in [Briefing: How cynical leaders are whipping up nationalism to win and abuse power](https://www.economist.com/briefing/2023/08/31/how-cynical-leaders-are-whipping-up-nationalism-to-win-and-abuse-power). 
+
+To replicate our analysis, run the following scripts:
 
 * [Script 1: This script collects the data we use from our sources and prepares it for analysis](./scripts/01.get_data.R)
 * [Script 2: This script replicates all the original quantitative analysis featured in the article, as well as the charts and map therein.](./scripts/02.analysis.R)
@@ -12,4 +14,4 @@ This repository contains code and data for an exploration of the links between e
 * United Nations, Department of Economic and Social Affairs, Population Division (2022). World Population Prospects 2022
 
 ## Suggested citation:
-The Economist, TK. _The Economist_, September 2nd, 2023
+The Economist, Looters with flags. _The Economist_, September 2nd, 2023. Available at: https://www.economist.com/briefing/2023/08/31/how-cynical-leaders-are-whipping-up-nationalism-to-win-and-abuse-power
