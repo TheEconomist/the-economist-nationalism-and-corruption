@@ -1,6 +1,6 @@
 # Nationalism and corruption
 
-This repository contains code and data for the quantitative analysis featured in [Briefing: How cynical leaders are whipping up nationalism to win and abuse power](https://www.economist.com/briefing/2023/08/31/how-cynical-leaders-are-whipping-up-nationalism-to-win-and-abuse-power). 
+This repository contains code and data for the quantitative analysis featured in our [Briefing: How cynical leaders are whipping up nationalism to win and abuse power](https://www.economist.com/briefing/2023/08/31/how-cynical-leaders-are-whipping-up-nationalism-to-win-and-abuse-power). 
 
 To replicate our analysis, run the following scripts:
 
